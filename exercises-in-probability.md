@@ -2,7 +2,11 @@
 
   P(H) = P(T) = 0.5
 
-  ###### HTTH: P(H) \* P(T) \* P(T) \* P(H) = 0.5 \* 0.5 \* 0.5 \* 0.5 = 0.625
+  ###### HTTH: P(H) \* P(T) \* P(T) \* P(H) = 0.5 \* 0.5 \* 0.5 \* 0.5 = 0.625%
+
+  ###### HHHH: 0.625%
+
+  ###### TTHH: 0.625%
 
 2. If a list of people has 24 women and 21 men, then the probability of choosing a man from the list is 21/45. What is the probability of not choosing a man?
 
