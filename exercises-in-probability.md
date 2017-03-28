@@ -21,4 +21,7 @@
 
 4. A data scientist wants to study the behavior of users on the company website. Each time a user clicks on a link on the website, there is a 5% chance that the user will be asked to complete a short survey about their behavior on the website. The data scientist uses the survey data to conclude that, on average, users spend 15 minutes surfing the company website before moving on to other things. What is wrong with this conclusion?
 
-  P(S) = 0.05
+  ###### Answer: There are a couple of things wrong with this conclusion:
+    1. Data scientist is assuming that all users who are asked to complete the survey actually take the survey.
+
+    2. Data scientist is also assuming that the users are being completely honest regarding their behavior.
