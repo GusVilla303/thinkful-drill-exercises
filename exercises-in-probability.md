@@ -17,7 +17,7 @@
   P(B) = .10
   P(C) = .005
 
-  ###### Answer: .10 \* .005 = 0.005%
+  ###### Answer: .10 \* .005 = 0.0005%
 
 4. A data scientist wants to study the behavior of users on the company website. Each time a user clicks on a link on the website, there is a 5% chance that the user will be asked to complete a short survey about their behavior on the website. The data scientist uses the survey data to conclude that, on average, users spend 15 minutes surfing the company website before moving on to other things. What is wrong with this conclusion?
 
