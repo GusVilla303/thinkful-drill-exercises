@@ -13,4 +13,8 @@
   ##### Quality: Volume fluctuation due to events of 9/11 attacks.
   ##### Exceptional circumstance: Day after 9/11 attacks.
 
-  3. 
+  3. Data Source: Armenian Pub Survey. Question: What are the most common reasons Armenians visit local pubs?
+
+  ##### 1. Hang out with Friends
+  ##### 2. Special events/parties
+  ##### 3. Birthdays 
