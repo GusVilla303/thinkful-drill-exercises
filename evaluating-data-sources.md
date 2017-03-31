@@ -9,8 +9,8 @@
 
   2.  Mental health services use on September 12, 2001 in San Francisco, CA and New York City, NY. Question: How do patterns of mental health service use vary between cities?
 
-
-
-  ##### Bias: *Only* two cities after one of the most emotionally disturbing events in American history. 
+  ##### Bias: *Only* two cities after one of the most emotionally disturbing events in American history.
   ##### Quality: Volume fluctuation due to events of 9/11 attacks.
   ##### Exceptional circumstance: Day after 9/11 attacks.
+
+  3. 
